@@ -40,4 +40,4 @@ Composing an email is as easy as selecting the ID's from the current database ta
 In the above example, the user entered: <b><i>1,2</b></i>  -  This will send the email to those two contacts stored in database. 
 
 ## Sample Output - What The Recipient Will See
-![sample-output](https://github.com/jakemaguy/Big-Update/blob/master/assets/sampleoutput.jpg)
+![sample-output](https://github.com/jakemaguy/Big-Update/blob/master/assets/sampleoutput.JPG)
