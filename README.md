@@ -12,3 +12,5 @@ The motivation for this application was to reduce the annoyance factor in regard
 Use the ↑ and ↓ arrow keys to navigate all the menus.
 
 Press <i>enter</i> to go into a menu item
+
+![navigation](https://github.com/jakemaguy/Big-Update/blob/master/assets/navigation.gif)
