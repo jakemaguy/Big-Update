@@ -1,1 +1,1 @@
-# H3 Big Update - A console application to simplify sending those status update emails
+### Big Update - A console application to simplify sending those status update emails
