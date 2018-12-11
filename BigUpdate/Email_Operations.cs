@@ -268,7 +268,7 @@ namespace BigUpdate
                             else
                             {
                                 if ((key.Modifiers & ConsoleModifiers.Shift) != 0) sb.Append(keystring);
-                                else if (char.IsDigit(key.KeyChar) || char.IsPunctuation(key.KeyChar))
+                                else if (char.IsDigit(key.KeyChar) || char.IsPunctuation(key.KeyChar) || char.IsSymbol(key.KeyChar))
                                     sb.Append(key.KeyChar.ToString());
                                 else sb.Append(keystring.ToLower());
                             }
